@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewModelExample</string>
+    <string name="result">Результат</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">blank fragment</string>
+    <string name="textName">Имя</string>
+    <string name="textAge">Возраст</string>
+</resources>
